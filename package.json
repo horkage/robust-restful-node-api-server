@@ -1,0 +1,24 @@
+{
+  "name": "api-server",
+  "version": "0.1.0",
+  "author": "Michael Wood <horkage@gmail.com>",
+  "description": "Robust Node API server",
+  "contributors": [
+    {
+      "name": "Michael Wood",
+      "email": "horkage@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/horkage/robust-restful-node-api-server"
+  },
+  "dependencies": {
+    "restify": "2.6.1",
+    "cluster": "~0.7.7"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.10.25"
+  }
+}
